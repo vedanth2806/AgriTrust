@@ -15,26 +15,26 @@ Deployment: Google Cloud Run (Containerized microservices)
 
 ✨ Key Features:
 
-✅ Real-time produce tracking with unique digital identities
-✅ QR Code scanning for instant product verification
-✅ All three stakeholders — farmers, buyers and logistics — on one platform
-✅ Optimized delivery routes for efficient logistics
-✅ Mobile-first design for accessibility across rural and urban areas
-✅ Scalable cloud architecture handling real-time data processing
+- ✅ Real-time produce tracking with unique digital identities
+- ✅ QR Code scanning for instant product verification
+- ✅ All three stakeholders — farmers, buyers and logistics — on one platform
+- ✅ Optimized delivery routes for efficient logistics
+- ✅ Mobile-first design for accessibility across rural and urban areas
+- ✅ Scalable cloud architecture handling real-time data processing
 
 
 🌟 Impact & Benefits:
 
-Farmers: Showcase product authenticity, participate in transparent bidding and earn better prices
-Buyers: Verify supplier credentials and product quality
-Consumers: Make informed purchasing decisions with complete transparency
+- Farmers: Showcase product authenticity, participate in transparent bidding and earn better prices
+- Buyers: Verify supplier credentials and product quality
+- Consumers: Make informed purchasing decisions with complete transparency
 
 🛠 Technical Highlights:
-*Built responsive cross-platform applications using Flutter
-*Developed robust REST APIs with Node.js for seamless data flow
-*Implemented Google Cloud SQL for reliable data persistence
-*Deployed scalable microservices using Google Cloud Run
-*Integrated Google Cloud Storage for secure document and data management
+- *Built responsive cross-platform applications using Flutter
+- *Developed robust REST APIs with Node.js for seamless data flow
+- *Implemented Google Cloud SQL for reliable data persistence
+- *Deployed scalable microservices using Google Cloud Run
+- *Integrated Google Cloud Storage for secure document and data management
 
 Achieved real-time synchronization across all platforms
 
